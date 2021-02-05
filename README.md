@@ -1,5 +1,5 @@
 # Dino
-> Prehistoric survival game..
+> Prehistoric survival game.
 
 
 ## GIFs 
